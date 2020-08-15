@@ -1,4 +1,4 @@
-# Financial Reporting
+# Financial Reporting Analysis and Stock Valuation <img src="https://img.icons8.com/doodle/96/000000/graph-report.png"/>
 
  `A detailed report to clearly show the financial analysis and business operation of XYZ Capital and to forecast their gross billings in the Quarter 4 of 2013.`
  
@@ -43,19 +43,19 @@ For making predictions I used the following methods to draw conclusions: `
 
 ### 4. Progress Analysis
 
-`The Quarter on Quarter (QoQ) Analysis technique for gross billingsis the main method used to draw conclusions over stock recommendation.
-QoQ was be calculated by:`
+`The Quarter on Quarter (QoQ) Analysis technique for gross billings is one of the main methods used to draw conclusions over stock recommendation.
+QoQ is be calculated by:`
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=QoQ_%&space;=\frac{&space;Gross\,Billings&space;\left&space;\{&space;Q4_{2013}&space;-&space;Q4_{2012}&space;\right\}&space;}{Q4_{2012}}&space;\times&space;100" target="_blank"><img src="https://latex.codecogs.com/gif.latex?QoQ_%&space;=\frac{&space;Gross\,Billings&space;\left&space;\{&space;Q4_{2013}&space;-&space;Q4_{2012}&space;\right\}&space;}{Q4_{2012}}&space;\times&space;100" title="QoQ_% =\frac{ Gross\,Billings \left \{ Q4_{2013} - Q4_{2012} \right\} }{Q4_{2012}} \times 100" /></a>
 
 <h3 align="left">
   <img src="images/growth.png" width="700">
  <br>
-  <em> QoQ growth rate plot </em>
+  <em> Overall QoQ growth rate plot </em>
 </h3>
  
 ### 5. Final Remarks
- `We will make an estimation for Q1 2014 as well using a Simple Exponential Model (using Excel).
+ `I made an imputation for Q1 2014 as well using a Simple Exponential Model (with Excel).
      The R-squared value verifies the accuracy of this model.`
      
 <h3 align="center">
@@ -80,5 +80,5 @@ QoQ was be calculated by:`
   
 ### Conclusion : 
 
-Our recommendation is to  **Buy** XYZ's stock. 
+Recommendation is to  **Buy** XYZ's stock.  <img src="https://img.icons8.com/color/48/000000/green-flag.png" width = "36px"/>
 
