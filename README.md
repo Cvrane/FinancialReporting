@@ -63,7 +63,7 @@ QoQ is be calculated by:`
 </h3>   
      
    
-     `From XYZ Capital's 2012 annual report, we inferred some characteristics from their business and risk factors:
+     From XYZ Capital's 2012 annual report, we inferred some characteristics from their business and risk factors:
      
      1) Their financial results will be adversely affected if they are unable to execute on their marketing
      strategy.
@@ -76,7 +76,7 @@ QoQ is be calculated by:`
      The growth rate from our Q4 2013 Estimation may be bad but when we look beyond the earnings, we will see that
      the new deals that were estimated continue to grow in almost all the months after October 2013. 
      Thus, with XYZ Capital's business fundamentals remaining solid, we expect their stock to rebound soon as the
-     company adjusts to perform better in the next quarter as observed from the Q4 2014 estimation. `
+     company adjusts to perform better in the next quarter as observed from the Q4 2014 estimation. 
 
 <br> 
 
